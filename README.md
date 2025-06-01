@@ -19,5 +19,5 @@ Bu projeyi RimuruSHOP Code Topluluğunun kod sayfasını tasarlamak için yapmı
 Projeyi kendi bilgisayarınızda çalıştırmak için şu adımları izleyin:
 
 ```bash
-git clone https://github.com/physics/rimurushop-frontend.git
+git clone https://github.com/physicsjs/rimurushop-frontend.git
 cd rimurushop-frontend
